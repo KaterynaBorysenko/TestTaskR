@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTaskR</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_title">Post Title</string>
+    <string name="redditusername">RedditUserName</string>
+    <string name="_10_hours_ago">10 hours ago</string>
+    <string name="_64">64</string>
+</resources>
